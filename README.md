@@ -3,5 +3,5 @@
 
 <div align="center"> 
   
-  [**ata**](https://sugucurse.atabook.org/) [**main**](https://github.com/italypasta)
+  [**ata**](https://italypasta.atabook.org/) [**main**](https://github.com/italypasta)
 [**matching**](https://fluffle.cc/weathersui)
